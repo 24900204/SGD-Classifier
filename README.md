@@ -28,6 +28,7 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: 
 RegisterNumber:  
 */
+
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
@@ -54,7 +55,7 @@ print(cm)
 ```
 
 ## Output:
-<img width="1379" height="405" alt="image" src="https://github.com/user-attachments/assets/0359a090-4568-4e8b-8e2d-65edc29b59e6" />
+<img width="1381" height="401" alt="image" src="https://github.com/user-attachments/assets/51dceb1f-81ac-4734-9026-8a132ba1654d" />
 
 
 ## Result:
