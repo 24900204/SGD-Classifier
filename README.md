@@ -25,8 +25,8 @@ step 7. end
 ```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: 
-RegisterNumber:  
+Developed by: RITHIKA L
+RegisterNumber:  212224230231
 */
 
 import pandas as pd
